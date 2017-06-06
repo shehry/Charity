@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTextBlue">#299dea</color>
+    <color name="colorTopBackground">#f5f5f5</color>
+
+    <color name="colorButtonDonate">#823e82</color>
+    <color name="colorButtonSHare">#3b5996</color>
+</resources>
